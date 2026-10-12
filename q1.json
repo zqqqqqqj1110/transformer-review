@@ -1,0 +1,34 @@
+{
+  "id": "Q01",
+
+  "question": "An AI assistant gives you a statistic with no source. What should you do before using it in a report?",
+
+  "options": {
+    "A": "Use it if the answer sounds reasonable",
+    "B": "Verify the statistic using a reliable external source",
+    "C": "Ask the AI to repeat the answer",
+    "D": "Use it if the AI provides a detailed explanation"
+  },
+
+  "correct_answer": "B",
+
+  "pillar": "critical",
+  "difficulty": "medium",
+
+  "topic": "Hallucination and Output Reliability",
+
+  "role_relevance": [
+    "researchers",
+    "hobbyist"
+  ],
+
+  "review_status": "approved",
+
+  "distractor_rationale": {
+    "A": "A plausible-sounding answer is not evidence that the information is correct.",
+    "C": "Generating the answer again does not independently verify the statistic.",
+    "D": "A detailed explanation can still contain unsupported or incorrect information."
+  },
+
+  "estimated_time_sec": 20
+}
